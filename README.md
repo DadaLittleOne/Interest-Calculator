@@ -1,7 +1,7 @@
 # Interest-Calculator
 
 <div align="center"><h2>
-Indestructable Interest Calculator made by Raiyaxi Ziaoi
+Indestructable Interest Calculator<br/><br/>Made by Raiyaxi Ziaoi
 </h2></div>
 
 <i>
