@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/lRzzpEU.png"></img>
+
 # Interest-Calculator
 
 <div align="center"><h2>
